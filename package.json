@@ -1,0 +1,12 @@
+{
+  "name": "splitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dsachaniya/splitter.git",
+  "author": "Darshan Sachaniya <dms94260@gmail.com>",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^5.3.6"
+  }
+}
